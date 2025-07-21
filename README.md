@@ -1,70 +1,73 @@
-<h1 align="center">Hi there 👋, I'm Ade</h1>
-<h3 align="center">Investor | Finance Enthusiast | Aspiring Developer</h3>
+<h1 align="center">Hi, I'm Ade 👋</h1>
+<h3 align="center">Investor | Finance Enthusiast | Tech Beginner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Investor+in+crypto%2C+stocks%2C+and+digital+assets.;Beginner+in+tech%2C+learning+by+building.;Passionate+about+finance+and+long-term+thinking." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Investor+in+crypto,+stocks,+and+digital+assets.;Still+learning+tech+by+building.;Interested+in+financial+systems,+macro,+and+DeFi." alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧭 About Me
 
-- 🎯 Beginner in tech, passionate about financial systems & investing.
-- 💸 Active across **crypto**, **stock market**, and **digital asset classes**.
-- 📚 Learning by doing — both in markets and in building digital tools.
-- 🌍 Long-term mindset, interested in economic cycles & decentralized finance.
+- 💼 I'm a beginner in tech, but I've been actively investing in various financial instruments — especially **crypto** and **stocks**.
+- 🌍 I'm passionate about finance, economic systems, and long-term investing.
+- 📚 I’m learning development by building small but real projects that support my investment journey.
 
 ---
 
-### 📊 Market Overview *(Updated Manually / with GitHub Actions)*
+### 📊 Market Overview *(Live)*
 
-| Asset      | Price (Est.) | Sentiment |
-|------------|--------------|-----------|
-| BTC        | ~$63,000     | Bullish   |
-| ETH        | ~$3,400      | Neutral   |
-| NVDA       | ~$130        | Strong    |
-| AAPL       | ~$225        | Stable    |
-
-> *Badges can be automated with price APIs or GitHub Actions.*
+<!-- PRICES-START -->
+_Tunggu update otomatis dari API..._
+<!-- PRICES-END -->
 
 ---
 
 ### 🛠️ Tools & Platforms I Use
 
-#### 📈 Investment Platforms & Tools
+#### 💹 CeFi & Broker Platforms
 ![Binance](https://img.shields.io/badge/Binance-F3BA2F?style=flat&logo=binance&logoColor=white)
 ![Bybit](https://img.shields.io/badge/Bybit-262626?style=flat&logo=bybit&logoColor=gold)
 ![Interactive Brokers](https://img.shields.io/badge/Interactive%20Brokers-ffffff?style=flat&logo=ibm&logoColor=black)
 ![TradingView](https://img.shields.io/badge/TradingView-1E1E1E?style=flat&logo=tradingview&logoColor=white)
-![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-2A5ADA?style=flat&logo=coinmarketcap&logoColor=white)
 ![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=flat&logo=yahoo&logoColor=white)
 ![Seeking Alpha](https://img.shields.io/badge/Seeking%20Alpha-000000?style=flat&logo=seekingalpha&logoColor=white)
-![Google Finance](https://img.shields.io/badge/Google%20Finance-4285F4?style=flat&logo=google&logoColor=white)
-![Messari](https://img.shields.io/badge/Messari-1E1E1E?style=flat&logo=data&logoColor=blue)
-![CoinGecko](https://img.shields.io/badge/CoinGecko-8DC351?style=flat&logo=coingecko&logoColor=white)
 
-#### 📚 Learning & Research Stack
-![Investopedia](https://img.shields.io/badge/Investopedia-1E1E1E?style=flat&logo=readthedocs&logoColor=white)
-![FRED](https://img.shields.io/badge/FRED-EF3E36?style=flat&logo=chartdotjs&logoColor=white)
+#### 🌐 DeFi / DEX Ecosystem
+![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=flat&logo=uniswap&logoColor=white)
+![PancakeSwap](https://img.shields.io/badge/PancakeSwap-3ECF8E?style=flat&logo=pancakeswap&logoColor=white)
+![Jupiter](https://img.shields.io/badge/Jupiter-2E2E2E?style=flat&logo=solana&logoColor=lime)
+![Raydium](https://img.shields.io/badge/Raydium-000000?style=flat&logo=data&logoColor=purple)
+
+#### 🔗 Blockchain & Wallets
+![Solana](https://img.shields.io/badge/Solana-00FFA3?style=flat&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![BNB Chain](https://img.shields.io/badge/BNBChain-F3BA2F?style=flat&logo=binance&logoColor=black)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white)
+![Phantom](https://img.shields.io/badge/Phantom-5341A9?style=flat&logo=phantom&logoColor=white)
+![Keplr](https://img.shields.io/badge/Keplr-3399FF?style=flat&logo=cosmos&logoColor=white)
+
+#### 📊 On-Chain & Macro Tools
+![DefiLlama](https://img.shields.io/badge/DefiLlama-1E1E1E?style=flat&logo=data&logoColor=white)
+![Zapper](https://img.shields.io/badge/Zapper-804DFE?style=flat&logo=zapper&logoColor=white)
+![Dune](https://img.shields.io/badge/Dune-1E1E1E?style=flat&logo=duneanalytics&logoColor=orange)
 ![MacroMicro](https://img.shields.io/badge/MacroMicro-000000?style=flat&logo=levelsdotfyi&logoColor=green)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![YouTube Finance](https://img.shields.io/badge/YouTube%20Finance-FF0000?style=flat&logo=youtube&logoColor=white)
+![FRED](https://img.shields.io/badge/FRED-EF3E36?style=flat&logo=chartdotjs&logoColor=white)
 
 ---
 
-### 🧑‍💻 Learning Tech Stack (Coding)
+### 🧑‍💻 Currently Learning
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ademiando&show_icons=true&theme=tokyonight" width="47%" />
@@ -73,7 +76,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.instagram.com/ademiando" target="_blank">
@@ -89,8 +92,6 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ademiando&label=Profile+Views&color=blue" alt="Profile Views" />
