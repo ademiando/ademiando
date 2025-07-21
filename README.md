@@ -14,13 +14,6 @@
 
 ---
 
-### 📊 Market Overview *(Live)*
-
-<!-- PRICES-START -->
-_Wait update from API..._
-<!-- PRICES-END -->
-
----
 
 ### 🛠️ Tools & Platforms I Use
 
