@@ -9,40 +9,58 @@
 
 ### 🧭 About Me
 
-- 🎯 I'm a beginner in the tech world, currently learning web development.
-- 💸 Passionate about investing — with a strong interest in **crypto**, **stocks**, and digital finance.
-- 📚 Constantly learning about financial systems, digital trends, and economic cycles.
-- 🧠 Focused on long-term thinking, digital ownership, and building tools that matter.
+- 🎯 Beginner in tech, passionate about financial systems & investing.
+- 💸 Active across **crypto**, **stock market**, and **digital asset classes**.
+- 📚 Learning by doing — both in markets and in building digital tools.
+- 🌍 Long-term mindset, interested in economic cycles & decentralized finance.
 
 ---
 
-### 🔄 Market Snapshot
+### 📊 Market Overview *(Updated Manually / with GitHub Actions)*
 
-| Asset | Live Price |
-|-------|------------|
-| BTC   | ![BTC](https://cryptoprices.cc/BTC?label=BTC&currency=USD) |
-| ETH   | ![ETH](https://cryptoprices.cc/ETH?label=ETH&currency=USD) |
-| AAPL  | ![AAPL](https://img.shields.io/badge/AAPL--blue?logo=yahoo&label=AAPL&style=flat) |
-| NVDA  | ![NVDA](https://img.shields.io/badge/NVDA--green?logo=yahoo&label=NVDA&style=flat) |
+| Asset      | Price (Est.) | Sentiment |
+|------------|--------------|-----------|
+| BTC        | ~$63,000     | Bullish   |
+| ETH        | ~$3,400      | Neutral   |
+| NVDA       | ~$130        | Strong    |
+| AAPL       | ~$225        | Stable    |
 
-> _Badges auto-update with current market data._
+> *Badges can be automated with price APIs or GitHub Actions.*
 
 ---
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms I Use
 
-#### 📈 Investment Stack
-![TradingView](https://img.shields.io/badge/TradingView-1E1E1E?style=flat&logo=tradingview&logoColor=white)
+#### 📈 Investment Platforms & Tools
 ![Binance](https://img.shields.io/badge/Binance-F3BA2F?style=flat&logo=binance&logoColor=white)
+![Bybit](https://img.shields.io/badge/Bybit-262626?style=flat&logo=bybit&logoColor=gold)
+![Interactive Brokers](https://img.shields.io/badge/Interactive%20Brokers-ffffff?style=flat&logo=ibm&logoColor=black)
+![TradingView](https://img.shields.io/badge/TradingView-1E1E1E?style=flat&logo=tradingview&logoColor=white)
 ![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-2A5ADA?style=flat&logo=coinmarketcap&logoColor=white)
+![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=flat&logo=yahoo&logoColor=white)
 ![Seeking Alpha](https://img.shields.io/badge/Seeking%20Alpha-000000?style=flat&logo=seekingalpha&logoColor=white)
+![Google Finance](https://img.shields.io/badge/Google%20Finance-4285F4?style=flat&logo=google&logoColor=white)
+![Messari](https://img.shields.io/badge/Messari-1E1E1E?style=flat&logo=data&logoColor=blue)
+![CoinGecko](https://img.shields.io/badge/CoinGecko-8DC351?style=flat&logo=coingecko&logoColor=white)
 
-#### 💻 Learning Tech Stack
+#### 📚 Learning & Research Stack
+![Investopedia](https://img.shields.io/badge/Investopedia-1E1E1E?style=flat&logo=readthedocs&logoColor=white)
+![FRED](https://img.shields.io/badge/FRED-EF3E36?style=flat&logo=chartdotjs&logoColor=white)
+![MacroMicro](https://img.shields.io/badge/MacroMicro-000000?style=flat&logo=levelsdotfyi&logoColor=green)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![YouTube Finance](https://img.shields.io/badge/YouTube%20Finance-FF0000?style=flat&logo=youtube&logoColor=white)
+
+---
+
+### 🧑‍💻 Learning Tech Stack (Coding)
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
 
