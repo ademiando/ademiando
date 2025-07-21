@@ -11,14 +11,46 @@
 
 - 🎯 I'm a beginner in the tech world, currently learning web development.
 - 💸 I invest across multiple instruments — with strong focus on **crypto** and **stock markets**.
-- 🧠 Deeply interested in **finance**, **digital assets**, and **economic trends**.
-- 🛠️ I believe in building things, thinking long-term, and staying curious.
+- 📚 I enjoy exploring financial systems, digital assets, and macroeconomic trends.
+- 🧠 Focused on long-term thinking, compounding, and digital independence.
 
 ---
 
-### 🧰 Skills & Tools
+### 📈 Public Investment Snapshot (Top Holdings)
 
-#### 📈 Investment Tools
+#### 🪙 Crypto Allocation (by conviction)
+| Asset     | Allocation | Thesis                      |
+|-----------|------------|-----------------------------|
+| Bitcoin   | 40%        | Store of value, hard money  |
+| Ethereum  | 30%        | Smart contracts & L2s       |
+| Solana    | 10%        | Scalable L1 experimentation |
+| Others    | 20%        | Diversified DeFi & AI tokens|
+
+#### 📊 Stock Portfolio Focus
+- 🏢 **Tech:** Microsoft, Nvidia, Apple  
+- 🌍 **Index:** S&P 500, MSCI World  
+- 📦 **Thematic:** Green Energy, AI, Emerging Markets
+
+> _“I don’t look for the next hype — I look for real value over time.”_
+
+---
+
+### 🔄 Live Market Snapshot
+
+| Ticker | Price Badge |
+|--------|-------------|
+| BTC    | ![BTC](https://cryptoprices.cc/BTC?label=BTC&currency=USD) |
+| ETH    | ![ETH](https://cryptoprices.cc/ETH?label=ETH&currency=USD) |
+| NVDA   | ![NVDA](https://img.shields.io/badge/NVDA--green?logo=yahoo&label=NVDA&style=flat) |
+| AAPL   | ![AAPL](https://img.shields.io/badge/AAPL--blue?logo=yahoo&label=AAPL&style=flat) |
+
+_Note: Price badges auto-refresh via API every time someone opens the profile._
+
+---
+
+### 🛠️ Tools & Platforms
+
+#### 🧩 Investment Stack
 ![TradingView](https://img.shields.io/badge/TradingView-1E1E1E?style=flat&logo=tradingview&logoColor=white)
 ![Binance](https://img.shields.io/badge/Binance-F3BA2F?style=flat&logo=binance&logoColor=white)
 ![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-2A5ADA?style=flat&logo=coinmarketcap&logoColor=white)
@@ -33,16 +65,6 @@
 
 ---
 
-### 💼 Interests
-
-- 📊 Equity markets (US & global)
-- 🪙 Cryptocurrency (BTC, ETH, DeFi, layer-1s)
-- 🧾 Personal finance & asset allocation
-- 🔍 Market psychology & macroeconomics
-- 🧪 Learning to code and building digital tools
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -52,7 +74,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/yourusername" target="_blank">
