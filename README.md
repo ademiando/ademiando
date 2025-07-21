@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Backing+the+future+through+crypto+and+tech.;Learning+by+shipping+and+building.;Curious+about+systems,+sovereignty,+and+scalability." alt="Typing SVG" />
 </p>
----
+
 
 ### 🧭 About Me
 
