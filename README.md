@@ -10,47 +10,28 @@
 ### 🧭 About Me
 
 - 🎯 I'm a beginner in the tech world, currently learning web development.
-- 💸 I invest across multiple instruments — with strong focus on **crypto** and **stock markets**.
-- 📚 I enjoy exploring financial systems, digital assets, and macroeconomic trends.
-- 🧠 Focused on long-term thinking, compounding, and digital independence.
+- 💸 Passionate about investing — with a strong interest in **crypto**, **stocks**, and digital finance.
+- 📚 Constantly learning about financial systems, digital trends, and economic cycles.
+- 🧠 Focused on long-term thinking, digital ownership, and building tools that matter.
 
 ---
 
-### 📈 Public Investment Snapshot (Top Holdings)
+### 🔄 Market Snapshot
 
-#### 🪙 Crypto Allocation (by conviction)
-| Asset     | Allocation | Thesis                      |
-|-----------|------------|-----------------------------|
-| Bitcoin   | 40%        | Store of value, hard money  |
-| Ethereum  | 30%        | Smart contracts & L2s       |
-| Solana    | 10%        | Scalable L1 experimentation |
-| Others    | 20%        | Diversified DeFi & AI tokens|
+| Asset | Live Price |
+|-------|------------|
+| BTC   | ![BTC](https://cryptoprices.cc/BTC?label=BTC&currency=USD) |
+| ETH   | ![ETH](https://cryptoprices.cc/ETH?label=ETH&currency=USD) |
+| AAPL  | ![AAPL](https://img.shields.io/badge/AAPL--blue?logo=yahoo&label=AAPL&style=flat) |
+| NVDA  | ![NVDA](https://img.shields.io/badge/NVDA--green?logo=yahoo&label=NVDA&style=flat) |
 
-#### 📊 Stock Portfolio Focus
-- 🏢 **Tech:** Microsoft, Nvidia, Apple  
-- 🌍 **Index:** S&P 500, MSCI World  
-- 📦 **Thematic:** Green Energy, AI, Emerging Markets
-
-> _“I don’t look for the next hype — I look for real value over time.”_
-
----
-
-### 🔄 Live Market Snapshot
-
-| Ticker | Price Badge |
-|--------|-------------|
-| BTC    | ![BTC](https://cryptoprices.cc/BTC?label=BTC&currency=USD) |
-| ETH    | ![ETH](https://cryptoprices.cc/ETH?label=ETH&currency=USD) |
-| NVDA   | ![NVDA](https://img.shields.io/badge/NVDA--green?logo=yahoo&label=NVDA&style=flat) |
-| AAPL   | ![AAPL](https://img.shields.io/badge/AAPL--blue?logo=yahoo&label=AAPL&style=flat) |
-
-_Note: Price badges auto-refresh via API every time someone opens the profile._
+> _Badges auto-update with current market data._
 
 ---
 
 ### 🛠️ Tools & Platforms
 
-#### 🧩 Investment Stack
+#### 📈 Investment Stack
 ![TradingView](https://img.shields.io/badge/TradingView-1E1E1E?style=flat&logo=tradingview&logoColor=white)
 ![Binance](https://img.shields.io/badge/Binance-F3BA2F?style=flat&logo=binance&logoColor=white)
 ![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-2A5ADA?style=flat&logo=coinmarketcap&logoColor=white)
@@ -68,8 +49,8 @@ _Note: Price badges auto-refresh via API every time someone opens the profile._
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ademiando&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ademiando&theme=tokyonight" width="47%" />
 </p>
 
 ---
@@ -77,16 +58,16 @@ _Note: Price badges auto-refresh via API every time someone opens the profile._
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/ademiando" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/ademiando" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://twitter.com/ademiandoo" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ademiandoo@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -94,5 +75,5 @@ _Note: Price badges auto-refresh via API every time someone opens the profile._
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ademiando&label=Profile+Views&color=blue" alt="Profile Views" />
 </p>
