@@ -18,7 +18,7 @@
 ### 📊 Market Overview *(Live)*
 
 <!-- PRICES-START -->
-_Tunggu update otomatis dari API..._
+_Wait update from API..._
 <!-- PRICES-END -->
 
 ---
@@ -28,6 +28,7 @@ _Tunggu update otomatis dari API..._
 #### 💹 CeFi & Broker Platforms
 ![Binance](https://img.shields.io/badge/Binance-F3BA2F?style=flat&logo=binance&logoColor=white)
 ![Bybit](https://img.shields.io/badge/Bybit-262626?style=flat&logo=bybit&logoColor=gold)
+![Gotrade](https://img.shields.io/badge/Gotrade-0B0B0B?style=flat&logo=googlefinance&logoColor=white)
 ![Interactive Brokers](https://img.shields.io/badge/Interactive%20Brokers-ffffff?style=flat&logo=ibm&logoColor=black)
 ![TradingView](https://img.shields.io/badge/TradingView-1E1E1E?style=flat&logo=tradingview&logoColor=white)
 ![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=flat&logo=yahoo&logoColor=white)
