@@ -1,10 +1,9 @@
-<h1 align="center">Hi, I'm Ade 👋</h1>
-<h3 align="center">Investor | Finance Enthusiast | Tech Beginner</h3>
+<h1 align="center">Hi, I'm Ademiando 👋</h1>
+<h3 align="center">Backing Innovation • Learning by Building • Navigating Financial Frontiers</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Investor+in+crypto,+stocks,+and+digital+assets.;Still+learning+tech+by+building.;Interested+in+financial+systems,+macro,+and+DeFi." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Backing+the+future+through+crypto+and+tech.;Learning+by+shipping+and+building.;Curious+about+systems,+sovereignty,+and+scalability." alt="Typing SVG" />
 </p>
-
 ---
 
 ### 🧭 About Me
