@@ -1,35 +1,36 @@
 <h1 align="center">Hi there 👋, I'm Ade</h1>
-<h3 align="center">Investor • Entrepreneur • Digital Builder</h3>
+<h3 align="center">Aspiring Developer • Investor • Finance Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Investing+in+the+future+%F0%9F%92%B0;Building+Montamap+%F0%9F%8F%9B%EF%B8%8F;Exploring+crypto%2C+stocks%2C+and+digital+assets" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Beginner+in+coding+%F0%9F%92%BB;Investing+in+crypto%2C+stocks%2C+and+everything+in+between;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💼 About Me
+### 🧠 About Me
 
-- 💸 Passionate about **investing**, **personal finance**, and **the global stock market**.
-- 📊 Active in **crypto**, **tech startups**, and long-term **equity investing**.
-- 🌍 Currently building **[Montamap](https://montamap.com)** – a global hiking intelligence platform.
-- 🧭 Exploring opportunities at the intersection of **technology**, **nature**, and **financial systems**.
+- 🚀 **Beginner in tech**, passionate about building useful things from scratch
+- 💹 **Love investing** in almost every asset class – especially **crypto** and **stocks**
+- 🧾 Interested in **personal finance**, **long-term wealth**, and **digital ownership**
+- 🧠 Believer in learning by doing (and breaking stuff along the way)
 
 ---
 
-### 🛠️ Tech & Tools
+### 🛠️ Currently Learning
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-4264FB?style=flat&logo=mapbox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 📈 Favorite Topics
-- 🪙 Crypto & Web3 ecosystems (long-term, not hype-driven)
-- 📈 Stock markets & global macro trends
-- 🧠 Behavioral finance and decision-making
-- 🔍 Scalable business models & startup economics
+### 💰 Favorite Topics
+
+- 🪙 **Crypto** (BTC, ETH, altcoins, DeFi, Web3, you name it)
+- 📈 **Stock Market** (index investing, growth stocks, macro trends)
+- 💸 **Personal Finance** & Financial Independence
+- 🤯 Behavioral Economics & Risk Management
 
 ---
 
@@ -42,7 +43,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/your-username" target="_blank">
