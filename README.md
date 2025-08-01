@@ -6,10 +6,10 @@
 </p>
 
 
-### 🧭 About Me
+### 🐣 About Me
 
-- 💼 I'm a beginner in tech, but I've been actively investing in various financial instruments — especially **crypto** and **stocks**.
-- 🌍 I'm passionate about finance, economic systems, and long-term investing.
+- 🐛 I'm a beginner in tech, but I've been actively investing in various financial instruments — especially **crypto** and **stocks**.
+- 📊 I'm passionate about finance, economic systems, and long-term investing.
 - 📚 I’m learning development by building small but real projects that support my investment journey.
 
 ---
@@ -32,7 +32,7 @@
 
 ---
 
-### 🧑‍💻 Currently Learning
+### 📝 Currently Learning
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### ♻️ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ademiando&show_icons=true&theme=tokyonight" width="47%" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 🌐 Let's Connect
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.instagram.com/ademiando" target="_blank">
