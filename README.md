@@ -15,9 +15,7 @@
 ---
 
 
-### 🛠️ Tools & Platforms I Use
-
-#### 💹 CeFi & Broker Platforms
+### 💹 Blockchain & Broker Platforms 
 ![Binance](https://img.shields.io/badge/Binance-F3BA2F?style=flat&logo=binance&logoColor=white)
 ![Bybit](https://img.shields.io/badge/Bybit-262626?style=flat&logo=bybit&logoColor=gold)
 ![Gotrade](https://img.shields.io/badge/Gotrade-0B0B0B?style=flat&logo=googlefinance&logoColor=white)
@@ -25,25 +23,12 @@
 ![TradingView](https://img.shields.io/badge/TradingView-1E1E1E?style=flat&logo=tradingview&logoColor=white)
 ![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=flat&logo=yahoo&logoColor=white)
 ![Seeking Alpha](https://img.shields.io/badge/Seeking%20Alpha-000000?style=flat&logo=seekingalpha&logoColor=white)
-
-#### 🌐 DeFi / DEX Ecosystem
 ![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=flat&logo=uniswap&logoColor=white)
 ![PancakeSwap](https://img.shields.io/badge/PancakeSwap-3ECF8E?style=flat&logo=pancakeswap&logoColor=white)
 ![Jupiter](https://img.shields.io/badge/Jupiter-2E2E2E?style=flat&logo=solana&logoColor=lime)
 ![Raydium](https://img.shields.io/badge/Raydium-000000?style=flat&logo=data&logoColor=purple)
-
-#### 🔗 Blockchain & Wallets
-![Solana](https://img.shields.io/badge/Solana-00FFA3?style=flat&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![BNB Chain](https://img.shields.io/badge/BNBChain-F3BA2F?style=flat&logo=binance&logoColor=black)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white)
 ![Phantom](https://img.shields.io/badge/Phantom-5341A9?style=flat&logo=phantom&logoColor=white)
-![Keplr](https://img.shields.io/badge/Keplr-3399FF?style=flat&logo=cosmos&logoColor=white)
-
-#### 📊 On-Chain & Macro Tools
-![DefiLlama](https://img.shields.io/badge/DefiLlama-1E1E1E?style=flat&logo=data&logoColor=white)
-![Zapper](https://img.shields.io/badge/Zapper-804DFE?style=flat&logo=zapper&logoColor=white)
-![Dune](https://img.shields.io/badge/Dune-1E1E1E?style=flat&logo=duneanalytics&logoColor=orange)
 ![MacroMicro](https://img.shields.io/badge/MacroMicro-000000?style=flat&logo=levelsdotfyi&logoColor=green)
 ![FRED](https://img.shields.io/badge/FRED-EF3E36?style=flat&logo=chartdotjs&logoColor=white)
 
