@@ -25,12 +25,10 @@
 ![Seeking Alpha](https://img.shields.io/badge/Seeking%20Alpha-000000?style=flat&logo=seekingalpha&logoColor=white)
 ![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=flat&logo=uniswap&logoColor=white)
 ![PancakeSwap](https://img.shields.io/badge/PancakeSwap-3ECF8E?style=flat&logo=pancakeswap&logoColor=white)
-![Jupiter](https://img.shields.io/badge/Jupiter-2E2E2E?style=flat&logo=solana&logoColor=lime)
 ![Raydium](https://img.shields.io/badge/Raydium-000000?style=flat&logo=data&logoColor=purple)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white)
 ![Phantom](https://img.shields.io/badge/Phantom-5341A9?style=flat&logo=phantom&logoColor=white)
 ![MacroMicro](https://img.shields.io/badge/MacroMicro-000000?style=flat&logo=levelsdotfyi&logoColor=green)
-![FRED](https://img.shields.io/badge/FRED-EF3E36?style=flat&logo=chartdotjs&logoColor=white)
 
 ---
 
