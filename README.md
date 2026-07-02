@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Ademiando 👋</h1>
-<h3 align="center">Backing Innovation • Learning by Building • Navigating Financial Frontiers</h3>
+<h1 align="center">Hi.. 👋</h1>
+<h3 align="center">Learning by Building •</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Backing+the+future+through+crypto+and+tech.;Learning+by+shipping+and+building.;Curious+about+systems,+sovereignty,+and+scalability." alt="Typing SVG" />
@@ -8,29 +8,11 @@
 
 ### 🐣 About Me
 
-- 🐛 I'm a beginner in tech, but I've been actively investing in various financial instruments — especially **crypto** and **stocks**.
-- 📊 I'm passionate about finance, economic systems, and long-term investing.
-- 📚 I’m learning development by building small but real projects that support my investment journey.
-
+A finance enthusiast exploring the creative side of the web. Currently blending logic and art through WebGL, Three.js, and interactive animations.
 ---
 
 
-### 💹 Blockchain & Broker Platforms 
-![Binance](https://img.shields.io/badge/Binance-F3BA2F?style=flat&logo=binance&logoColor=white)
-![Bybit](https://img.shields.io/badge/Bybit-262626?style=flat&logo=bybit&logoColor=gold)
-![Gotrade](https://img.shields.io/badge/Gotrade-0B0B0B?style=flat&logo=googlefinance&logoColor=white)
-![Interactive Brokers](https://img.shields.io/badge/Interactive%20Brokers-ffffff?style=flat&logo=ibm&logoColor=black)
-![TradingView](https://img.shields.io/badge/TradingView-1E1E1E?style=flat&logo=tradingview&logoColor=white)
-![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=flat&logo=yahoo&logoColor=white)
-![Seeking Alpha](https://img.shields.io/badge/Seeking%20Alpha-000000?style=flat&logo=seekingalpha&logoColor=white)
-![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=flat&logo=uniswap&logoColor=white)
-![PancakeSwap](https://img.shields.io/badge/PancakeSwap-3ECF8E?style=flat&logo=pancakeswap&logoColor=white)
-![Raydium](https://img.shields.io/badge/Raydium-000000?style=flat&logo=data&logoColor=purple)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white)
-![Phantom](https://img.shields.io/badge/Phantom-5341A9?style=flat&logo=phantom&logoColor=white)
-![MacroMicro](https://img.shields.io/badge/MacroMicro-000000?style=flat&logo=levelsdotfyi&logoColor=green)
 
----
 
 ### 📝 Currently Learning
 
@@ -40,6 +22,14 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat&logo=googlegemini&logoColor=white)
 
 ---
 
