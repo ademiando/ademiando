@@ -28,7 +28,8 @@ A finance enthusiast exploring the creative side of the web. Currently blending 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat&logo=googlegemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/%20Gemini-8E75C2?style=flat&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat&logo=anthropic&logoColor=white)
 ![Spline](https://img.shields.io/badge/Spline-000000?style=flat&logo=spline&logoColor=white)
 ![Tripo AI](https://img.shields.io/badge/Tripo%20AI-222222?style=flat)
 
