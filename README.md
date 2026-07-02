@@ -7,7 +7,8 @@
 
 ### 🐣 About Me
 
-A finance enthusiast exploring the creative side of the web, Currently blending logic and art through WebGL, Three.js, and interactive animations.
+A finance enthusiast exploring the creative side of the web. Currently blending logic and art through WebGL, Three.js, and interactive animations.
+
 ---
 
 
