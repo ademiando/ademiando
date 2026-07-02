@@ -37,9 +37,9 @@ A finance enthusiast exploring the creative side of the web. Currently blending 
 
 ### ♻️ GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ademiando&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-profile-trophies.vercel.app/?username=ademiando&theme=tokyonight&column=4" alt="github trophies" />
+</p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ademiando&theme=tokyonight" width="47%" />
 </p>
 
